@@ -73,7 +73,7 @@ Employee Details
 
 ![image](https://user-images.githubusercontent.com/74112721/236620502-26756bc5-63d6-4a96-aed6-365223fc6a47.png)
 
-Manage Pharmaceutial 
+Manage Pharmaceutical 
 
 ![image](https://user-images.githubusercontent.com/74112721/236620527-c4ce7ac7-8c7e-4ca3-8c8a-a8605ea76342.png)
 
@@ -81,14 +81,14 @@ Manage Pharmaceutial
 
 ###   FUTURE WORK 
 
-•	Adding Ambulance Service  :  Driver can locate the patient with the shortest  distance between the A point to B point . Location of Patient .
+<br>•	Adding Ambulance Service  :  Driver can locate the patient with the shortest  distance between the A point to B point . Location of Patient .
 
 •	Android Application : Patient can operate this application through their Handheld Phones
 
 
 ### CONCLUSION 
 
-This application will give the new proposed system of Healthcare System . Generic medicine , Other facilities will help user in their Health care
+<br>This application will give the new proposed system of Healthcare System . Generic medicine , Other facilities will help user in their Health care
 
 Everyone needs to be well informed and concerned about the quality of care.
 
