@@ -9,6 +9,7 @@
   •	PROBLEM STATEMENT<br>
   •	FEATURES<br>
   •	ARCHITECTURE DIAGRAM<br>
+  •	WORKING  <br>
   •	FUTURE WORKS<br>
   •	CONCLUSION<br>
 
@@ -54,6 +55,30 @@ The aim of our Mini Project  is to make the interaction of patients and doctors 
 ###  ARCHITECTURE DIAGRAM
 
 ![image](https://user-images.githubusercontent.com/74112721/236619945-4dc42d32-70cc-44e0-834a-0be550a507fa.png)
+
+### WORKING 
+
+Home Page
+
+![image](https://user-images.githubusercontent.com/74112721/236620448-0b2f8e3b-55f2-4b18-a2fa-cf406740c156.png)
+
+Admin Dashboard 
+
+![image](https://user-images.githubusercontent.com/74112721/236620473-4a98a85c-c6e3-4284-a2da-879f88e19efe.png)
+
+Patient List 
+
+![image](https://user-images.githubusercontent.com/74112721/236620489-67e0c622-28f8-4fef-8242-585b20c81b20.png)
+
+Employee Details
+
+![image](https://user-images.githubusercontent.com/74112721/236620502-26756bc5-63d6-4a96-aed6-365223fc6a47.png)
+
+Manage Pharmaceutial 
+
+![image](https://user-images.githubusercontent.com/74112721/236620527-c4ce7ac7-8c7e-4ca3-8c8a-a8605ea76342.png)
+
+
 
 ###   FUTURE WORK 
 
